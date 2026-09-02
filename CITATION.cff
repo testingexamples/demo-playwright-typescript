@@ -14,7 +14,7 @@ identifiers:
   - type: url
     value: 'https://github.com/joelparkerhenderson/demo-playwright-typescript/'
     description: Demo Playwright TypeScript
-repository-code: 'https://github.com/joelparkerhenderson/demo-playwright-typescript/'
+repository-code: 'https://github.com/testingexamples/demo-playwright-typescript/'
 abstract: >-
   Demo Playwright TypeScript
 license: See license file

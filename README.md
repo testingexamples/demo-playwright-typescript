@@ -7,6 +7,8 @@ Demonstration of:
 * [Node](https://nodejs.org/) runtime built on Chrome's V8 JavaScript engine
 * [Chromium](https://www.chromium.org/) open source web browser
 
+The exact scenario this demo walks through is specified in [spec/index.md](spec/index.md); the code and the spec must agree.
+
 ## Install
 
 ### Install Node and NPM
