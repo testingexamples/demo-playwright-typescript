@@ -8,9 +8,8 @@ TypeScript script (`src/demo.ts`) that teaches Playwright's locator
 strategies (id, attribute, class, text, and XPath selectors via
 `page.locator(...)`) and basic form interactions (filling a text input,
 checking a checkbox and radio, selecting a dropdown option) against the
-public demo site https://testingexamples.github.io. Note: despite sitting
-inside a parent folder named "demo-playwright-typescript-for-nhs-wales",
-this repo is a generic locator walkthrough, not NHS-Wales-specific.
+public demo site https://testingexamples.github.io. This repo is a
+generic locator walkthrough, not NHS-Wales-specific.
 
 To run it: install Node, npm, TypeScript/ts-node, and Playwright (see
 README.md's Install section), then run `./src/demo.ts` or

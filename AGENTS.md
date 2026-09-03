@@ -4,11 +4,9 @@ Demo Playwright TypeScript is a small beginner walkthrough script that uses
 Playwright (Chromium) with TypeScript to demonstrate locating elements on
 https://testingexamples.github.io by id, name attribute, class, link text,
 and XPath, then filling a text input, checking a checkbox, checking a radio
-button, and selecting an option from a dropdown. Despite living inside a
-parent folder named "demo-playwright-typescript-for-nhs-wales", this repo
-itself is not NHS-Wales-specific — it's the same generic
-testingexamples.github.io locator walkthrough as the other demo repos in
-this collection.
+button, and selecting an option from a dropdown. This repo is not
+NHS-Wales-specific — it's the same generic testingexamples.github.io
+locator walkthrough as the other demo repos in this collection.
 
 `spec/index.md` is the single source of truth for the exact scenario this
 demo walks through: the target URL, every locator used, and the expected
@@ -24,7 +22,7 @@ uses `console.log` to show what it found, not assertions (the lone
 add strict pass/fail assertions or convert this into a test framework —
 that would change what the demo is for. (For a real assertion-based test
 suite covering a similar scenario, see the sibling repo
-demo-webdriver-javascript.)
+demo-webdriverio-javascript.)
 
 CLAUDE.md is a pointer to this file — it is the single source of truth for
 agent instructions.
