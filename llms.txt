@@ -1,6 +1,6 @@
 # Demo Playwright TypeScript
 
-> A beginner walkthrough demonstrating Playwright locator strategies and form interactions in TypeScript against https://testingexamples.github.io.
+> A beginner walkthrough demonstrating Playwright locator strategies and form interactions in TypeScript against https://testingexamples.github.io/en-001/practice/.
 
 ## Docs
 

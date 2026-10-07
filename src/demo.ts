@@ -46,7 +46,7 @@ async function demo(): Promise<void> {
 
     try {
         // Navigate to a website
-        await page.goto("https://testingexamples.github.io");
+        await page.goto("https://testingexamples.github.io/en-001/practice/");
 
         ///
         // Find elements in various ways.

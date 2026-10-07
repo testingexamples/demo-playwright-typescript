@@ -3,7 +3,7 @@
 ## Summary
 
 This spec describes the exact Playwright/TypeScript walkthrough that
-`src/demo.ts` performs against https://testingexamples.github.io.
+`src/demo.ts` performs against https://testingexamples.github.io/en-001/practice/.
 
 ## Scope
 
@@ -19,11 +19,11 @@ Playwright, or general Playwright API docs — see `README.md` for that.
 * This is a walkthrough script, not a test suite. It demonstrates locator
   strategies and form interactions by printing HTML with `console.log`; it
   does not make assertions.
-* The script targets exactly one page: https://testingexamples.github.io.
+* The script targets exactly one page: https://testingexamples.github.io/en-001/practice/.
 
 ## Detail
 
-Target URL: `https://testingexamples.github.io`
+Target URL: `https://testingexamples.github.io/en-001/practice/`
 
 Locators (verbatim from `src/demo.ts`):
 
@@ -65,4 +65,4 @@ every locator resolves — each `.evaluate(...)` call succeeds and every
 
 ## Sources
 
-* <https://testingexamples.github.io>
+* <https://testingexamples.github.io/en-001/practice/>

@@ -2,7 +2,7 @@
 
 Demo Playwright TypeScript is a small beginner walkthrough script that uses
 Playwright (Chromium) with TypeScript to demonstrate locating elements on
-https://testingexamples.github.io by id, name attribute, class, link text,
+https://testingexamples.github.io/en-001/practice/ by id, name attribute, class, link text,
 and XPath, then filling a text input, checking a checkbox, checking a radio
 button, and selecting an option from a dropdown. This repo is not
 NHS-Wales-specific — it's the same generic testingexamples.github.io
